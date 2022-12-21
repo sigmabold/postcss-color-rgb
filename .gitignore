@@ -1,4 +1,4 @@
-dist
+#dist
 src/__tests__/fixtures/*.actual.css
 
 # Created by https://www.gitignore.io/api/macos,node
